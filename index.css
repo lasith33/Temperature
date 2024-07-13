@@ -1,0 +1,35 @@
+body{
+	font-family: sans-serif;
+}
+h1{
+	color: blue;
+}
+form{
+	background-color: bisque;
+	text-align: center;
+	max-width: 450px;
+	margin: auto;
+	padding: 25px;
+	border-radius: 10px;
+	
+}
+#textbox{
+	width: 50%;
+	text-align: center;
+	font-size: 2em;
+	border: 2px solid;
+	border-radius: 4px;
+	margin-bottom: 15px;
+}
+label{
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+button{
+	margin-top: 20px;
+	background-color: brown;
+}
+p{
+	font-weight: bold;
+	font-size: 20px;
+}
